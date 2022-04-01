@@ -1,0 +1,15 @@
+
+.shoe{
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.shoe img{
+    width: 390px;
+    border-radius: 10px;
+}
+
+.shoe-info{
+    /* line-height: 0.7rem; */
+}
